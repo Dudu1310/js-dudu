@@ -1,16 +1,19 @@
-# js-dudu
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/addons/p5.sound.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <meta charset="utf-8" />
+### Boas vindas ao meu perfil!!
 
-  </head>
-  <body>
-    <main>
-    </main>
-    <script src="sketch.js"></script>
-  </body>
-</html>
+
+### Olá!!
+### Dudu
+
+Gosto de esportes 
+
+Minha comida favorita é STROGNOF
+
+Aqui é CORINTHIANS
+
+Tenho 16 anos
+
+Sou do Paraná
+
+
+
+![](https://media1.tenor.com/m/hcY6CN5Jf_EAAAAC/vai-corinthians-timao.gif)
